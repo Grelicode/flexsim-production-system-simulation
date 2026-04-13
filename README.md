@@ -18,11 +18,11 @@ The goal of the project was to analyze material flow, identify bottlenecks, and 
 
 ## ⚙️ System Architecture
 System = Production + Robots + Operators + Warehouse + Transport
-
+<p align="center">
 <img width="1137" height="686" alt="flexsim1" src="https://github.com/user-attachments/assets/d9311c90-ff68-4047-a25e-4f9373a70ca5" />
-
+</p>
 <img width="855" height="511" alt="flexsim2" src="https://github.com/user-attachments/assets/ab630a94-d80b-42ae-9096-aec1e196234b" />
-
+</p>
 ### 🏭 Production Line
 
 - Multiple processing stations (Processor1–Processor3)  

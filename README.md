@@ -21,6 +21,7 @@ System = Production + Robots + Operators + Warehouse + Transport
 <p align="center">
 <img width="1137" height="686" alt="flexsim1" src="https://github.com/user-attachments/assets/d9311c90-ff68-4047-a25e-4f9373a70ca5" />
 </p>
+<p align="center">
 <img width="855" height="511" alt="flexsim2" src="https://github.com/user-attachments/assets/ab630a94-d80b-42ae-9096-aec1e196234b" />
 </p>
 
@@ -36,7 +37,7 @@ System = Production + Robots + Operators + Warehouse + Transport
 ### 🤖 Robotics
 
 - Multiple industrial robots (Robot1–Robot7)  
-- Tasks:
+Tasks:
   - material transport  
   - machine loading/unloading  
   - routing between queues  
@@ -101,16 +102,9 @@ The model captures real industrial challenges:
 ---
 
 ## 🧠 Conclusion
-
-```pascal
-(*
-  Industry 4.0 concept:
-  Integration of production, automation, and logistics
-*)
-```
-
+- Industry 4.0 concept:
+- Integration of production, automation, and logistics
 The project demonstrates how combining:
-
 - robotics  
 - warehouse automation  
 - human operators  
